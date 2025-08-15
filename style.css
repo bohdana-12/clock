@@ -53,6 +53,8 @@ body {
     transform: rotate(90deg)
 }
 
+
+
 .number:nth-child(4) {
     transform: rotate(120deg)
 }
@@ -96,37 +98,43 @@ body {
 
 .line:nth-child(15) {
     transform: rotate(45deg)
+
 }
 
+
+
 .line:nth-child(16) {
-    transform: rotate(105deg)
+    transform: rotate(75deg)
 }
 
 .line:nth-child(17) {
-    transform: rotate(135deg)
+    transform: rotate(105deg)
 }
 
 .line:nth-child(18) {
-    transform: rotate(165deg)
+    transform: rotate(135deg)
 }
 
 .line:nth-child(19) {
-    transform: rotate(195deg)
+    transform: rotate(165deg)
 }
 
 .line:nth-child(20) {
-    transform: rotate(225deg)
+    transform: rotate(195deg)
 }
 
 .line:nth-child(21) {
-    transform: rotate(255deg)
+    transform: rotate(225deg)
 }
 
 .line:nth-child(22) {
-    transform: rotate(285deg)
+    transform: rotate(255deg)
 }
 
 .line:nth-child(23) {
+    transform: rotate(285deg)
+}
+.line:nth-child(24) {
     transform: rotate(315deg)
 }
 
